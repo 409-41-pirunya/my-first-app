@@ -211,7 +211,7 @@ if st.session_state.get("is_ended", False):
         st.session_state.ans1_val,
         st.session_state.ans2_val
     )
-      show_result_dialog(ans1, ans2)
+    
 
 st.divider()
 st.write("นางสาวภิรัญญา เจี่ยเจริญตระกูล เลขที่ 41 ม.4/9")
